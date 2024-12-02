@@ -2,8 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        String frase = "Hello world!";
+        String phrase = "Hello world!";
         int number = 10;
-        System.out.printf(frase);
+        System.out.printf(phrase);
     }
 }
