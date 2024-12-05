@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         String phrase = "Hello world!";
-        int number = 10;
-        System.out.printf(phrase);
+
+        System.out.println(phrase);
     }
 }
